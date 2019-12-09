@@ -57,7 +57,7 @@ float currentE = 0, prevE = 0;
 
 float derivative = 0,
       integral = 0,
-      setPoint = 771.8,
+      setPoint = 531.65,
       pidResult = 0;
 
 double timeRef;
